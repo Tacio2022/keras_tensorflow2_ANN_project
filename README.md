@@ -1,3 +1,6 @@
+![613f03d6c0edc42e66cdcd32_A Guide to Automating Loan Document Data Extraction for Lenders Main Image](https://user-images.githubusercontent.com/101601156/171705974-cc7387d3-3ea5-4fe6-a7b1-5d9acc6c15d3.jpg)
+
+
 # keras_tensorflow2_ANN_project
 
 ## Keras - TensorFlow API Project Exercise - Pierian Data Inc.
